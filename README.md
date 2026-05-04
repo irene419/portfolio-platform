@@ -55,8 +55,30 @@ src/
 ## ⚙️ Installation & Setup
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/irene419/portfolio-platform.git
+```
+
+2. Navigate into the project:
+
+```bash
+cd portfolio-platform
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Run the project:
+
+```bash
+npm run dev
+```
+
+---
 
 ## 👩‍💻 Author
 Irene
